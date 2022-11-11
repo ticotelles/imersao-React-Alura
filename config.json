@@ -1,0 +1,83 @@
+{
+    "name": "Arthur Telles",
+    "job": "Estagiario",
+    "github": "https://github.com/ticotelles.png",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Dota 2 The International 2022 - Finals Weekend - Day 1",
+                "url": "https://www.youtube.com/watch?v=FS6mFjQIs3w",
+                "thumb": "https://img.youtube.com/vi/FS6mFjQIs3w/hqdefault.jpg"
+            },
+            {
+                "title": " Team Secret vs Tundra Esports - Grand Finale The International 2022",
+                "url": "https://www.youtube.com/watch?v=OZPHgMPrQjc",
+                "thumb": "https://img.youtube.com/vi/OZPHgMPrQjc/hqdefault.jpg"
+            },
+            {
+                "title": " OG's comeback to win DOTA 2's TI8 | Against The Odds",
+                "url": "https://www.youtube.com/watch?v=bdgTa9ni4S8",
+                "thumb": "https://img.youtube.com/vi/bdgTa9ni4S8/hqdefault.jpg"
+            },
+            {
+                "title": " True Sight : The International 2021",
+                "url": "https://www.youtube.com/watch?v=WwqAjEUi5kk",
+                "thumb": "https://img.youtube.com/vi/WwqAjEUi5kk/hqdefault.jpg"
+            },
+            {
+                "title": " True Sight : The International 2018 Finals",
+                "url": "https://www.youtube.com/watch?v=Bv4CqIxqTMA",
+                "thumb": "https://img.youtube.com/vi/Bv4CqIxqTMA/hqdefault.jpg"
+            },
+            {
+                "title": "The International 2018 - Main Event Day 2",
+                "url": "https://www.youtube.com/watch?v=fbs5ZZU2etY",
+                "thumb": "https://img.youtube.com/vi/fbs5ZZU2etY/hqdefault.jpg"
+            },
+            {
+                "title": " Top 10 Moments - THE INTERNATIONAL 2022 - Dota 2 Highlights TV",
+                "url": "https://www.youtube.com/watch?v=bwzz3IQjdfM",
+                "thumb": "https://img.youtube.com/vi/bwzz3IQjdfM/hqdefault.jpg"
+            }
+        ],
+        "Coisas da DTI": [
+            {
+                "title": "dti no Agile Trends!",
+                "url": "https://www.youtube.com/watch?v=mblS5XZTveE",
+                "thumb": "https://img.youtube.com/vi/mblS5XZTveE/hqdefault.jpg"
+            },
+            {
+                "title": "dti + Tribanco - transformação e crescimento no banco dos varejistas!",
+                "url": "https://www.youtube.com/watch?v=JuHUVi2kya4",
+                "thumb": "https://img.youtube.com/vi/JuHUVi2kya4/hqdefault.jpg"
+            },
+            {
+                "title": "Desing Sprint Pottencial Seguradora",
+                "url": "https://www.youtube.com/watch?v=zKj1y5s5Fow",
+                "thumb": "https://img.youtube.com/vi/zKj1y5s5Fow/hqdefault.jpg"
+            },
+            {
+                "title": "Por que o estoque é um indicador importante?",
+                "url": "https://www.youtube.com/watch?v=C-GeWCtX5L4",
+                "thumb": "https://img.youtube.com/vi/C-GeWCtX5L4/hqdefault.jpg"
+            },
+            {
+                "title": " DTI 10 ANOS! ",
+                "url": "https://www.youtube.com/watch?v=Py6I2I1yaFY",
+                "thumb": "https://img.youtube.com/vi/Py6I2I1yaFY/hqdefault.jpg"
+            },
+            {
+                "title": " Mercado em Conexão 2019 I dti",
+                "url": "https://www.youtube.com/watch?v=NS4F0cxKf0Q",
+                "thumb": "https://img.youtube.com/vi/NS4F0cxKf0Q/hqdefault.jpg"
+            },
+            {
+                "title": " Sejam bem-vindos ao dti garden!",
+                "url": "https://www.youtube.com/watch?v=WoMockf_7dQ",
+                "thumb": "https://img.youtube.com/vi/WoMockf_7dQ/hqdefault.jpg"
+            }
+            
+        ]
+        
+    }
+}
